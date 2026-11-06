@@ -1,5 +1,5 @@
-# postgisSpringBootAPI
-Projeto com postgis, para a disciplina de banco de dados II. prof:Barros
+# postgisSpringBootAPI 
+Um breve resumo do meu Projeto com postgis, para a disciplina de banco de dados II. prof:Barros
 
 ## Banco de dados
 ```sql
